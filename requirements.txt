@@ -1,0 +1,5 @@
+streamlit
+pandas
+python-dotenv
+google-generativeai # Will be needed if we integrate Gemini API for classification
+scikit-learn # Will be needed if we transition to a proper ML model
